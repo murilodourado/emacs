@@ -6,7 +6,7 @@
 ;; You may delete these explanatory comments.
 (package-initialize)
 
-(glob al-linum-mode t)
+(global-linum-mode t)
 (cua-mode t)
 (toggle-menu-bar-mode-from-frame -1)
 (toggle-tool-bar-mode-from-frame -1)
